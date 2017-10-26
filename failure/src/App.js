@@ -14,6 +14,7 @@ class App extends Component {
       <MuiThemeProvider muiTheme={getMuiTheme(darkBaseTheme)}>
       <AppBar style={{fontFamily:  'Kaushan Script',backgroundColor: '#EC407A', padding: 10}} showMenuIconButton={false} titleStyle ={{color: '#ffffff',fontSize: 40}}title="Short Stories" />
     </MuiThemeProvider>
+    
     );
   }
 }
