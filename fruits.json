@@ -1,0 +1,54 @@
+{
+  "fruits": [
+    {
+    "id": "1",
+    "name": "Apple",
+    "color": "Red"
+  },
+  {
+    "id": "2",
+    "name": "Apricot",
+    "color": "Orange"
+  },
+  {
+    "id": "3",
+    "name": "Banana",
+    "color": "Yellow"
+  },
+  {
+    "id": "4",
+    "name": "Custard Apple",
+    "color": "Green"
+  },
+  {
+    "id": "5",
+    "name": "Dates",
+    "color": "Brown"
+  },
+  {
+    "id": "6",
+    "name": "Lychees",
+    "color": "Red"
+  },
+  {
+    "id": "7",
+    "name": "Mango",
+    "color": "Yellow"
+  },
+  {
+    "id": "8",
+    "name": "Oranges",
+    "color": "Orange"
+  },
+  {
+    "id": "9",
+    "name": "Strawberry",
+    "color": "Red"
+  },
+   {
+      "id": "10",
+      "name": "Watermelon",
+      "color": "Green"
+    }
+  ]
+}
